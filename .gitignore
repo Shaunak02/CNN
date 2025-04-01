@@ -1,0 +1,7 @@
+# Ignore model files
+cnn_cifar100_resnet50_model.h5
+cnn_cifar100_model.h5
+cnn_model.h5
+
+# Ignore any file with .h5 extension
+*.h5
